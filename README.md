@@ -38,7 +38,8 @@ A web platform that connects blood donors with recipients efficiently.
 - Search by blood group and location
 - Emergency request system
 - Secure REST APIs
-
+  
+🔗 Live Project Link: https://blood-connect-frontend.vercel.app/ 
 🔗 GitHub: https://github.com/blnivas20/Blood-Connect](https://github.com/blnivas20/Blood_Connect-Full_Stack
 
 ---
