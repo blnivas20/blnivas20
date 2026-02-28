@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I’m B Lakshmi Nivas
 
-<!--
-**blnivas20/blnivas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science undergrad focused on coding mastery and real-world software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/blnivas?theme=light&font=baloo&ext=heatmap)
+
+---
+
+## 🚀 Projects
+
+### 🩸 Blood Connect – Smart Blood Donation Platform  
+A web platform that connects blood donors with recipients efficiently.
+
+**Tech Stack:** Django | ReactJS | MySQL  
+**Features:**
+- Donor registration & login
+- Search by blood group and location
+- Emergency request system
+- Secure REST APIs
+
+🔗 GitHub: https://github.com/blnivas20/Blood-Connect](https://github.com/blnivas20/Blood_Connect-Full_Stack
+
+---
+
+### 🔬 Eye Cancer Survival Prediction (ML Research)  
+Machine learning pipeline for patient survival classification using medical data.
+
+**Highlights:**
+- SMOTE, PCA & Genetic Algorithms for feature selection
+- Comparison across 16 ML classifiers
+- Evaluated using Accuracy, F1-Score & AUC
+- IEEE conference-style documentation
+
+**Tech Stack:** Python | Scikit-learn | TensorFlow | Pandas
+
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blnivas20&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blnivas20&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 GitHub: https://github.com/blnivas20  
+- 🔗 LeetCode: https://leetcode.com/u/blnivas/  
+- 🔗 LinkedIn: ((https://www.linkedin.com/in/lakshmi-nivas-bijigiri-912bb027a/)  
+- 📧 Email: (blnivas198775@gmail.com)
