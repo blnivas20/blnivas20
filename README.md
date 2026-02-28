@@ -10,6 +10,23 @@ I’m a Computer Science undergrad focused on coding mastery and real-world soft
 
 ---
 
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+Java | Python | SQL
+
+### 🌐 Web Development
+Django | ReactJS | REST APIs | HTML | CSS
+
+### 🗄️ Database
+MySQL
+
+### ⚙️ Tools
+Git | GitHub | VS Code | Google Colab
+
+---
+
 ## 🚀 Projects
 
 ### 🩸 Blood Connect – Smart Blood Donation Platform  
@@ -39,12 +56,6 @@ Machine learning pipeline for patient survival classification using medical data
 
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blnivas20&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blnivas20&layout=compact)
 
 ---
 
