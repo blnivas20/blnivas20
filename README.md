@@ -44,15 +44,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/blnivas?theme=dark&font=baloo&ext=heatmap)
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blnivas20&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blnivas20&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi%20Nivas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshmi-nivas-bijigiri-912bb027a/)
